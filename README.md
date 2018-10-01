@@ -1,3 +1,8 @@
+# 高考倒计时的BUG
+# 高考倒计时的BUG
+# 高考倒计时的BUG
+https://www.lookcos.cn/?p=219
+
 # gkdjs
 ## 全新2019高考倒计时动态桌面壁纸发布-全自动更新    
 ## https://www.lookcos.cn/?p=107
