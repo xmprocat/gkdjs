@@ -1,8 +1,7 @@
-# 高考倒计时的BUG
-# 高考倒计时的BUG
-# 高考倒计时的BUG
-https://www.lookcos.cn/?p=219
-
+### 更新日期 2018-11-03
+<font color=#A52A2A>Markdwon测试</font>
+### 更新内容:修复已知的时间不更新BUG
+#### 目前倒计时经过测试没有任何问题，短时间应该不会再更新！
 # gkdjs
 ## 全新2019高考倒计时动态桌面壁纸发布-全自动更新    
 ## https://www.lookcos.cn/?p=107
