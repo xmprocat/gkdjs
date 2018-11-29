@@ -47,7 +47,7 @@ p {
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
   color: #daf6ff;
-  ext-shadow: 0 0 20px #0aafe6, 0 0 20px rgba(10, 175, 230, 0);
+  text-shadow: 0 0 20px #0aafe6, 0 0 20px rgba(10, 175, 230, 0);
 }
 
 #clock .time {
